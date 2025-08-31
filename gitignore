@@ -1,0 +1,23 @@
+# Ignore Maven target folder
+/target/
+
+# Eclipse / STS files
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IntelliJ IDEA (if used later)
+*.iml
+.idea/
