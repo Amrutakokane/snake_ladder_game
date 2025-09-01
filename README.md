@@ -12,7 +12,7 @@ Java Development Kit (JDK) 8 or higher
 Git (for cloning the repository)
 
 Cloning the Repository:
-git clone https://github.com/your-username/snake-ladder-game.git
+git clone https: https://github.com/Amrutakokane/snake_ladder_game
 cd snake-ladder-game
 
 Running the Game:
